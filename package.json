@@ -35,8 +35,8 @@
     "coffee-script": "^1.7.1"
   },
   "dependencies": {
-    "z-builtins": "*",
-    "z-underscore": "*",
+    "z-builtins": "^0.1.1",
+    "z-underscore": "^0.1.1",
     "z-core": "^0.4.1"
   },
   "scripts": {
