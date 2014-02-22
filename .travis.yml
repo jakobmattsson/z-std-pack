@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - '0.11'
+  - '0.10'
+deploy:
+  provider: npm
+  email: jakob.mattsson@gmail.com
+  skip_cleanup: true
+  on:
+    node: '0.10'
+    tags: true
+    repo: jakobmattsson/z-std-pack
+  api_key:
+    secure: sYsQhrEz1tC6fkC+M39Ej9qcXSPslID8yAptcRv5omdxdHsTGqp8w29WQyxQf0zGQZEeCcG9sTBF9kYpvesHT9zwXoQZ86gn148pWH9vYKb2afiH0inHpd3i+j9E3GgdK52LdOo2LrdyFfdK/DxhyHhL/v7rjm2QdXapNtf9Rfc=
