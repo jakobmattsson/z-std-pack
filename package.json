@@ -38,7 +38,7 @@
   "dependencies": {
     "z-builtins": "^0.1.1",
     "z-underscore": "^0.1.1",
-    "z-core": "^0.4.1"
+    "z-core": "^0.5.0"
   },
   "scripts": {
     "build": "rm -rf lib && coffee -co lib src",
