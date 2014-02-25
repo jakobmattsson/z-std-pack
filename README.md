@@ -10,6 +10,8 @@ Use npm: `npm install z-std-pack`
 
 Or bower: (not available yet)
 
+Or download it manually from the `dist` folder of this repo.
+
 
 
 ### Contents
