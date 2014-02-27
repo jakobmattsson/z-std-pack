@@ -3,3 +3,4 @@ lib
 .cov
 z-builtins.sublime-workspace
 *.log
+.DS_Store
