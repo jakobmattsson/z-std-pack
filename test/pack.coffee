@@ -1,5 +1,3 @@
-Z = requireSource 'index'
-
 it 'has methods from underscore', ->
   Z({ a: 1, b: 3 }).values().should.become [1, 3]
 

@@ -1,0 +1,34 @@
+{
+  "name": "z-std-pack",
+  "version": "0.2.2",
+  "homepage": "https://github.com/jakobmattsson/z-std-pack",
+  "authors": [
+    "Jakob Mattsson <jakob.mattsson@gmail.com>"
+  ],
+  "description": "Utility library for JavaScript promises",
+  "main": "dist/z-std-pack.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "promises",
+    "util",
+    "functional",
+    "client",
+    "server",
+    "browser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.sublime-project",
+    "makefile",
+    "maintainers.md",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src"
+  ]
+}
