@@ -87,7 +87,7 @@
   "dependencies": {
     "z-builtins": "^0.2.1",
     "z-underscore": "^0.1.1",
-    "z-core": "^0.5.5"
+    "z-core": "^0.6.0"
   },
   "scripts": {
     "test": "make run-tests"
